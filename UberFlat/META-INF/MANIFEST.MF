@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: 24_Spring_Security_Boot
+Bundle-SymbolicName: 24_Spring_Security_Boot
+Bundle-Version: 1.0.0.qualifier
